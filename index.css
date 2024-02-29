@@ -1,0 +1,32 @@
+.btn {
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  font-size: 16px;
+}
+.btn:hover {
+  cursor: pointer;
+}
+
+.btn-primary {
+  background-color: #0d6efd;
+}
+
+.btn-secondary {
+  background-color: gray;
+}
+
+.btn-success {
+  background-color: #198754;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+/*# sourceMappingURL=index.css.map */
